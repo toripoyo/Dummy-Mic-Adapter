@@ -1,4 +1,7 @@
-Aux (Line) to Mic-Out (plug-in power) Converter.  
+# About
+
+Convert Aux/Headphone output to ECM (plug-in power) output.  
+You Can add the aux-in(mono) to your smatrphone by using this board and mic/headphone splitter.  
 
 * L/R mix
 * Mic Out Gain: -21dB
